@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+    color : #fff;
+    padding: 10px;
+}
+.skibidi-image {
+    width: 300px;
+}
+body {
+    background-color: #ff0000;
+    font-family: Arial, sans-serif;
+}
+.header p {
+    font-size: 20px;
+    color: #fff;
+}
+.header h1 {
+    font-size: 40px;
+    color: #fff;
+}
+.skibidi {
+    padding: 30px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    margin: 20px auto;
+    max-width: 400px;
+}
+.info {
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    background-color: gray;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    max-width: 400px;
+}
+.info h2 {
+    font-size: 2em;
+    color: #fff;
+}
